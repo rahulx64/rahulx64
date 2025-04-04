@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Ranjan! 👋
 
-🚀 **Aspiring Technologist | Full-Stack Developer | AI & ML Enthusiast**
+🚀 **Aspiring Developer | Full-Stack Developer | AI & ML Enthusiast**
 
 ## About Me
 - 🎓 B.Tech in **Computer Science & AI** from **IIIT Lucknow**
