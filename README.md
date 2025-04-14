@@ -4,7 +4,7 @@
 
 ## About Me
 - 🎓 B.Tech in **Computer Science & AI** from **IIIT Lucknow**
-- 💡 Passionate about **development, system design, and datastructur && algorithm **
+- 💡 Passionate about **development, system design, and data structers && algorithm **
 - 💻 Experienced in **MERN Stack, Python, C++, Machine Learning, and Deep Learning**
 - 🏗️ Built **TalkNest (Real-time chat app)** & **Twix (Full-stack social media app)**
 - 🏆 Worked on **Medical Image Segmentation using TransUNet** at IIIT Lucknow
