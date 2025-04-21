@@ -26,7 +26,8 @@
 
 
 ## GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulranjan&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulx64&show_icons=true&theme=radical)
+
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulranjan64/)
