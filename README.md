@@ -11,6 +11,12 @@
 - 🎯 Currently learning **Advanced Full-Stack Development & System Design**
 - 🌍 Exploring **Job Opportunities currently**
 
+## currently working on 
+# 🛒 BharatMart – eCommerce Application
+
+Live Demo: [https://bharatmart-ecommerce-2wrn.vercel.app/](https://bharatmart-ecommerce-2wrn.vercel.app/)
+
+
 ## Technologies & Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
